@@ -12,12 +12,13 @@
 
 ### ⏰ Working Hours
 
-1. **9-5 Strict** - I maintain traditional business hours and am generally unavailable outside 9am-5pm.
-   - _In practice:_ I like knowing what's waiting for me as part of my day, but I will always make time when needed
-2. **Night Owl** - I do my best work later in the day and may send messages in the evening.
-   - _In practice:_ I'm very productive in the later hours, especially when the noise levels die down
+Pretty much all the time, I will regularly check Slack throughout the day, both before and after traditional working hours. I will sometimes also do that during the weekend.
 
 I make it a priority to be available when I'm needed. If something is important I want to know and I want to help as much as possible.
+
+I will sometime send messages at times that are outside of traditional working hours, please don't feel obligated to respond right away. If something is urgent then I will be sure to let you know or I will use the phone directly to contact you.
+
+I will sometimes decide that it is better to schedule the message to working hours, in those cases I will usually also mention that it is a scheduled message.
 
 ### 💬 Communication Preferences
 
@@ -25,7 +26,7 @@ I make it a priority to be available when I'm needed. If something is important 
    - _In practice:_ Keep me informed, ask for help or just chat
 2. **Meetings/Video Calls** - I prefer face-to-face for complex conversations.
    - _In practice:_ Deep planning, deep thoughts and when something needs to be shown
-3. **WhatsApp** - For urgent matters, you can reach me on WhatsApp.
+3. **WhatsApp/Phone call** - For urgent matters, you can reach me on WhatsApp or by phone.
    - _In practice:_ When something is critical or requires my immediate attention at any point during the day
 
 **Just talking to me in person is always an option** 👍
@@ -36,7 +37,8 @@ I make it a priority to be available when I'm needed. If something is important 
 
 - My calendar is open and visible
 - If you need my attention feel free to reach out in person if I'm free or just book time with me
-- If you schedule - please try your best to provide context ahead of time so I know if it's possible to help even before the meeting or remove the need for it altogether
+- If you schedule - please try your best to provide context and agenda ahead of time so I know if it's possible to help even before the meeting or remove the need for it altogether
+- In general it would be best if the scheduled event includes an agenda in the description, that way all attendees can prepare ahead of time
 
 ## Feedback & Growth
 
