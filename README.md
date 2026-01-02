@@ -4,7 +4,7 @@
 
 ## 🎯 My Leadership Philosophy
 
-> "I like high quality and well thought out work, my goal is to help you perform at your best and grow in the areas you care about"
+> "I like high quality and well thought out work, my goal is to help you and your team to perform at your best and grow in the areas you care about"
 
 ---
 
@@ -16,28 +16,27 @@
    - _In practice:_ I like knowing what's waiting for me as part of my day, but I will always make time when needed
 2. **Night Owl** - I do my best work later in the day and may send messages in the evening.
    - _In practice:_ I'm very productive in the later hours, especially when the noise levels die down
-3. **other**
 
-_Additional notes:_ I make it a priority to be available when I'm needed. If something is important I want to know and I want to help as much as possible.
+I make it a priority to be available when I'm needed. If something is important I want to know and I want to help as much as possible.
 
 ### 💬 Communication Preferences
 
 1. **Slack** - Slack is my go-to for quick questions and team discussions.
    - _In practice:_ Keep me informed, ask for help or just chat
-2. **Video Calls** - I prefer face-to-face video calls for complex conversations.
+2. **Meetings/Video Calls** - I prefer face-to-face for complex conversations.
    - _In practice:_ Deep planning, deep thoughts and when something needs to be shown
 3. **WhatsApp** - For urgent matters, you can reach me on WhatsApp.
-   - _In practice:_ When something is critical during the after hours
-4. **other**
+   - _In practice:_ When something is critical or requires my immediate attention at any point during the day
 
-_Additional notes:_ Just talking to me in person is always an option
+**Just talking to me in person is always an option** 👍
 
 ### 📅 Calendar Philosophy
 
 1. **Open Book** - My calendar is public - feel free to book any open slot.
-2. **other**
 
-_Additional notes:_ My calendar is open and visible, if you need my time feel free to reach out in person if I'm free or just book time with me. If you schedule - please try your best to provide context ahead of time so I know if it's possible to help even before the meeting or remove the need for it altogether
+- My calendar is open and visible
+- If you need my attention feel free to reach out in person if I'm free or just book time with me
+- If you schedule - please try your best to provide context ahead of time so I know if it's possible to help even before the meeting or remove the need for it altogether
 
 ## Feedback & Growth
 
@@ -46,10 +45,8 @@ _Additional notes:_ My calendar is open and visible, if you need my time feel fr
 1. **Radical Candor** - I believe in direct, honest feedback delivered with care.
    - _In practice:_ I will do my best to collect and provide relevant feedback about areas you can improve in
 2. **Written First** - I like to share feedback in writing first so you can process.
-   - _In practice:_ When I see small things that bother me I will do my best to share directly in written format so you can continue to reflect
-3. **other**
-
-_Additional notes:_ Sometimes I will provide quick feedback for something that just happend, that's a way to keep the feedback fresh and "hit the iron while it is hot"
+   - _In practice:_ When I see small things that bother me or that I think can be improved I will do my best to share directly in written format so you can review offline
+3. **"Standing Feedback"** - I will provide feedback in a timely manner, especially when something just happened, to keep the feedback fresh and "hit the iron while it is hot"
 
 ### 🤝 1:1 Philosophy
 
@@ -57,9 +54,13 @@ _Additional notes:_ Sometimes I will provide quick feedback for something that j
    - _In practice:_ 1:1s are your time - bring over the topics that you want to discuss and tackle
 2. **Tactical Unblocking** - I focus on removing blockers and helping you move faster.
    - _In practice:_ We will use the time to review project status, see where you need help and provide guidance
-3. **other**
-
-_Additional notes:_ I will use 1:1s to get to know you, bond with you, better understand you and help with whichever topic I can - whether your personal growth, your people's growth or the tasks and challenges that you need help with (and I will also be a place to vent and be heard)
+3. **Keeping Track** - We will have a joint document/canvas to track topics we previously discussed, action items, follow-ups and new topics for the upcoming 1:1. You do not have to come with topics every time, but try to fill in topics ahead of time.
+4. **Regular Cadence** - I prefer to have 1:1s on a regular cadence (once every two weeks) to maintain continuity and build rapport.
+   - _In practice:_ We will set up a recurring meeting, I will do my best to make sure it happens regularly, without moving it around too much and without cancelling it unless absolutely necessary
+5. **Feedback Opportunity** - I will use 1:1s to provide feedback both for you and for your team members. I expect you to do the same for me.
+   - _In practice:_ 1:1s will include feedback, although they will not be the only time you receive feedback from me
+6. **Manager Connection** - I see 1:1s as a key opportunity to build a strong working relationship.
+   - _In practice:_ I want to get to know you better, understand your motivations, goals and challenges so I can help you grow and succeed
 
 ## Values, Quirks & Pet Peeves
 
@@ -73,32 +74,28 @@ _Additional notes:_ I will use 1:1s to get to know you, bond with you, better un
 4. **Quality** - I prioritize craftsmanship over getting things fast.
 5. **Kindness** - I believe we can be both high-performing and compassionate.
    - _In practice:_ Staying kind, helpful and cooperative is the always the first priority. Even the most brilliant piece of code or architecture is worth nothing if you've burned all bridges and good will
-6. **teamwork**
+6. **teamwork** - I believe the best results come from collaboration and supporting each other
    - _In practice:_ The team is there to help you, and you are there to help them, grow together and win together
-7. **other**
 
-_Additional notes:_ Speed and quality are a delicate balancing act, you need to feel comfortable switching between them at the appropriate times. It is not always easy to understand when to go with one over the other. When in doubt - let's talk and decide together
+**Note:** Speed and quality are a delicate balancing act, you need to feel comfortable switching between them at the appropriate times. It is not always easy to understand when to go with one over the other. When in doubt - let's talk and decide together
 
 ### 🐛 Known Bugs (Things I'm Working On)
 
 1. **Forgets to Celebrate** - I focus on the next thing and forget to celebrate wins.
-2. **other**
-
-_Additional notes:_ I tend to throw ideas and tasks that are not the most important thing at the moment, I will sometimes talk to you to get an estimate and understand if it's possible to fit it in, but it is by no means a commitment to execute. If the timeline is too tight or the team doesn't have any capacity - push back and let me know, we will differ until the time is right
+   - _In practice:_ I will do my best to celebrate wins, but please feel free to remind me when something great happens and the team deserves recognition for it
+2. I tend to move between ideas that interest me at that particular point int time. I will often pitch those ideas to you to get an estimate and understand if it's possible to fit it in, but it is by no means a commitment to execute. If the timeline is too tight or the team doesn't have any capacity - push back and let me know, we will defer until the time is right
 
 ### 😤 Pet Peeves
 
 1. **Surprises** - I prefer to hear about problems early, not last-minute.
-   - _In practice:_ You don't (and mostly shouldn't) come to me as soon as something goes wrong, but if you're lost or way off schedule then I should know about it so I can help
+   - _In practice:_ You don't (and mostly shouldn't) come to me as soon as something goes wrong, but if you're lost or way off schedule then I should know about it so I can help (and in those cases the sooner the better)
 2. **Ego over Team** - I value team success over individual glory.
+   - _In practice:_ I love empowering team members and helping them grow and shine, but this is a team effort and I care a lot more about pushing the team forward as a whole than any individual achievement
 3. **Solutions without Problems** - Please share the problem first before jumping to solutions.
 4. **Lateness** - I value punctuality as a sign of respect.
    - _In practice:_ I understand that unexpected things happen, but if you know you're going to be late or that something unexpected happend - please let me know ahead of time
-5. **other**
-
-_Additional notes:_ If you schedule a meeting, please add an agenda, it will help both you and anyone else who joins.
-When you write documents please try to proofread them and fix any typos or grammar mistakes (AI is 100% a valid tool for this).
-Documentation is worth investing time into - it helps you better understand and become an SME in the area, it means less reliance on you when you want to focus on other things and it means you can be OOO without someone getting stuck
+5. **Meeting Etiquette** - If you schedule a meeting, please add an agenda, it will help both you and anyone else who joins
+6. **High Quality Documentation** - When you write documents please try to proofread them and fix any typos or grammar mistakes (AI is 100% a valid tool for this). Documentation is worth investing time into - it helps you better understand and become an SME in the area, it means less reliance on you when you want to focus on other things and it means you can be OOO without someone getting stuck
 
 ## How We Build Together
 
@@ -106,9 +103,7 @@ Documentation is worth investing time into - it helps you better understand and 
 
 1. **Feature Lead** - You own features end-to-end, from design through release.
 2. **Collaborative** - We spec features together, then divide the work.
-3. **other**
-
-_Additional notes:_ Include me in design meetings, checklists and estimates. Keep me in the loop so I can be aware and contribute
+3. Include me in design meetings, checklists and estimates. Keep me in the loop so I can be aware and contribute
 
 ### 🚀 Starting New Initiatives
 
